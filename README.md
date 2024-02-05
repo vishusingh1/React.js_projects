@@ -1,2 +1,2 @@
 # React.js_projects
-# Some of my Rect.js Projects
+Some of my Rect.js Projects
